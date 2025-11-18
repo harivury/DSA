@@ -1,159 +1,37 @@
-DSA Record – C++ Implementations
+# 🧠 Data Structures and Algorithms (DSA) Lab Record
 
-A comprehensive and well-organized repository documenting core Data Structures and Algorithms using C++.
-This record is designed for academic labs, revision, and strengthening fundamental programming logic with clean code and structured explanations.
-
+This repository contains all my **Data Structures and Algorithms (DSA)** lab programs written in **C**, implemented from scratch to understand how core data structures work internally.
 
 ---
 
-📚 Overview
+## 👨‍💻 Student Details
 
-This repository brings together essential DSA concepts implemented in C++.
-Each program follows a consistent pattern: clear logic, neat formatting, descriptive comments, and sample output.
-The content aligns with standard academic lab requirements while maintaining readability for self-study.
+- **Name:** Vasudeva Hari V
+- **Register No:** 11249A407
+- **Department:** CSE (AIDS)  
+- **Year and semester :** 2nd year 1st semester 
+---
 
+## 📂 Programs List
+
+| No. | File Name | Description |
+|:--:|:------------------------------|:------------------------------------------------------------|
+| 1 | **Linear Search** | Sequential search in an array |
+| 2 | **Binary Search** | Efficient divide-and-conquer search algorithm |
+| 3 | **Stack Push** | Demonstrates push operation in a stack |
+| 4 | **Stack Pop** | Demonstrates pop operation in a stack |
+| 5 | **String Reversal** | Reverses a string using a stack |
+| 6 | **Infix to Postfix** | Converts infix expressions to postfix |
+| 7 | **Simple Queue** | Basic queue implementation using arrays |
+| 8 | **Circular Queue** | Queue with efficient circular indexing |
+| 9 | **Singly Linked List** | Basic linked list operations (insert/delete/traverse) |
+| 10 | **Doubly Linked List** | Doubly linked list with insertion, deletion, forward & backward traversal |
 
 ---
 
-🧭 Topics Covered
 
-1. Arrays
+## 📘 Overview
 
-Basic operations
+All programs were done as part of the **DSA Laboratory**.
 
-Searching & Sorting
-
-Insertion and deletion
-
-Traversal techniques
-
-
-2. Linked Lists
-
-Singly Linked List (SLL)
-
-Doubly Linked List (DLL)
-
-Circular Linked List (CLL)
-
-Operations: insertion, deletion, traversal
-
-
-3. Stacks & Queues
-
-Array implementation
-
-Linked list implementation
-
-Circular queue
-
-Basic applications
-
-
-4. Trees
-
-Binary Search Tree (BST)
-
-Traversals (Inorder, Preorder, Postorder)
-
-Insertion & deletion
-
-AVL Trees: rotations, balance factor
-
-
-5. Searching & Sorting
-
-Linear & Binary Search
-
-Bubble, Insertion, Selection sort
-
-Quick & Merge sort (if included)
-
-
-6. Miscellaneous
-
-Additional lab programs
-
-Utility functions
-
-Practice problems
-
-
-
----
-
-🎯 Objectives
-
-Maintain a polished and complete academic DSA record.
-
-Provide high-quality C++ implementations with proper structure.
-
-Offer simple explanations for complex concepts.
-
-Create a resource useful for revision and viva preparation.
-
-
-
----
-
-🛠 Language & Environment
-
-C++17 / GCC / G++
-
-Written and tested in VS Code
-
-Standard Template Library used wherever necessary
-
-Portable and straightforward compilation commands
-
-
-
----
-
-📂 Repository Structure
-
-DSA/
-│
-├── Arrays/
-│   ├── operations.cpp
-│   ├── searching.cpp
-│   └── sorting.cpp
-│
-├── LinkedLists/
-│   ├── sll.cpp
-│   ├── dll.cpp
-│   └── cll.cpp
-│
-├── Stacks_Queues/
-│   ├── stack.cpp
-│   └── queue.cpp
-│
-├── Trees/
-│   ├── bst.cpp
-│   └── avl.cpp
-│
-└── Misc/
-    └── extra_programs.cpp
-
-Each file includes:
-
-Clear code
-
-Comments for understanding
-
-Sample input and output
-
-Small notes wherever required
-
-
-
----
-
-📌 Notes
-
-All programs are handwritten for academic purposes.
-The aim is not shortcuts but clarity and correctness.
-Useful for exams, internals, practicals, and interviews.
-
-
----
+The experiments cover essential concepts such as searching, stacks, queues, string processing, singly linked lists, and doubly linked lists.
